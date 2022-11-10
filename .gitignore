@@ -1,2 +1,6 @@
 **/Cargo.lock
 **/target
+**/*.a
+**/*.o
+**/*.exe
+**/*.pdb
